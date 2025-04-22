@@ -8,9 +8,10 @@ A simple, responsive blog‑preview card built to the [Frontend Mentor challenge
 
 - **Challenge:** Create a card component showing an article preview with image, category, date, title, description, and author profile.  
 - **Screenshot:**  
-  ![Desktop Preview](./screenshot.jpg)  
-- **Live Site:** https://your‑username.github.io/blog-preview-card-solution  
-- **Solution Repo:** https://github.com/ImagineBillie/blog-preview-card-solution
+  ![Desktop Preview](./assets/images/screenshot.png)  
+- **Live Site:** https://imaginebillie.github.io/Blog-preview-card/  
+- **Solution Repo:** https://github.com/ImagineBillie/Blog-preview-card.git
+
 
 ---
 
